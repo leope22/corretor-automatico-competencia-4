@@ -6,6 +6,11 @@ Este projeto realiza uma investigação sobre os elementos de coesão textual em
 
 O GitHub apresentou problemas para renderizar o notebook com as saídas devido aos widgets interativos. Para uma visualização completa, com todos os gráficos e saídas:
 
+**Opção 1: Visualizar via Google Drive**
+* Uma cópia do notebook também está disponível no Google Drive, utilizando o visualizador do Colab.
+* **[Clique aqui para abrir o notebook no Google Colab](https://colab.research.google.com/drive/135eZa5YuqvWx12rCpPWpxtDKNrn2Yvw2)**
+
+**Opção 2: Visualizar via NBViewer**
 * Acesse o site **[nbviewer.org](https://nbviewer.org/)**.
 * Cole o seguinte link do notebook na caixa de pesquisa e pressione Enter:
     ```
