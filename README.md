@@ -6,18 +6,11 @@ Este projeto realiza uma investigação sobre os elementos de coesão textual em
 
 O GitHub apresentou problemas para renderizar o notebook com as saídas devido aos widgets interativos. Para uma visualização completa, com todos os gráficos e saídas:
 
-**Opção 1: Visualizar via NBViewer**
-
 * Acesse o site **[nbviewer.org](https://nbviewer.org/)**.
 * Cole o seguinte link do notebook na caixa de pesquisa e pressione Enter:
     ```
     https://github.com/leope22/corretor-automatico-competencia-4/blob/92e3057760362b8f0fe7b4b70906df526d86e3e4/Compet%C3%AAncia_4.ipynb
     ```
-    
-**Opção 2: Visualizar via Google Drive / Colab**
-
-* O notebook com as saídas salvas está disponível para visualização direta no Google Drive.
-* **[Clique aqui para abrir o notebook no Google Drive](https://drive.google.com/file/d/135eZa5YuqvWx12rCpPWpxtDKNrn2Yvw2/view?usp=sharing)**
 
 ## 📜 Contexto do Projeto
 
