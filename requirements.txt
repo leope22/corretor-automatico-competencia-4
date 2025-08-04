@@ -1,0 +1,15 @@
+pandas
+numpy
+torch
+scikit-learn
+transformers
+datasets
+matplotlib
+seaborn
+spacy
+tqdm
+lightgbm
+imbalanced-learn
+joblib
+pandarallel
+shap
